@@ -96,7 +96,6 @@ class Loadmore extends React.Component {
         return (
             <div ref={el => { this.el = el }}>
                 <span {...this.props}>
-                    Loadmore
                 </span>
             </div>
         )
